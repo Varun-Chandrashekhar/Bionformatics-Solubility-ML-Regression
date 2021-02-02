@@ -6,6 +6,7 @@ import pandas as pd
 import streamlit as st
 import pickle
 from PIL import Image
+import rdkit
 from rdkit import Chem
 from rdkit.Chem import Descriptors
 
